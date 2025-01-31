@@ -1,0 +1,15 @@
+{
+  "name": "node_js_checkpoint",
+  "version": "1.0.0",
+  "main": "fs_read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OS",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "nodemailer": "^6.10.0"
+  }
+}
